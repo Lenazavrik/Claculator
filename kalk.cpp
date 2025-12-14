@@ -7,7 +7,6 @@ int main() {
 
     cout << "Enter an expression (example: 5 + 3): ";
     cin >> a >> op >> b;
-    cout << "Enter an expression (example: 5 + 3): ";
 
 
     switch (op) {
